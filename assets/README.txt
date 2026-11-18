@@ -1,0 +1,1 @@
+Coloca aquí recursos visuales. Puedes elegir cualquier imagen desde Ajustes.

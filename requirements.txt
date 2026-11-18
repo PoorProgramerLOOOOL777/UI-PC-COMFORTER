@@ -1,0 +1,6 @@
+vosk==0.3.45
+sounddevice==0.5.2
+edge-tts==7.2.3
+pygame==2.6.1
+Pillow==11.3.0
+pyinstaller==6.15.0
